@@ -1,0 +1,14 @@
+{
+  "name": "expressbookreviews",
+  "version": "1.0.0",
+  "description": "Online Book Review Application",
+  "main": "final_project/index.js",
+  "scripts": {
+    "start": "node final_project/index.js",
+    "dev": "nodemon final_project/index.js",
+    "build": "npm install --prefix final_project"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
